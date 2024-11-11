@@ -3,7 +3,7 @@
 
 Efficiently manage and manipulate strings with this string data structure! Ideal for handling common string operations like concatenation, searching, pattern matching, and more.
 
-## 📑 Table of Contents 
+## 📑Table of Contents 
 
 - [Features](#features)
 - [File Structure](#file-structure)
@@ -11,14 +11,14 @@ Efficiently manage and manipulate strings with this string data structure! Ideal
 - [Medium Problems](#🌿medium)
 - [Hard Problems](#🌳hard)
 
-## 🚀 Features
+## 🚀Features
 
 - **Basic String Operations**: Append, insert, delete, and replace strings.
 - **Pattern Matching**: Fast algorithms to find patterns in strings.
 - **String Transformation**: Convert cases, reverse strings, and handle whitespace.
 - **Utilities**: Check for palindromes, anagrams, and more.
 
-## 📂 File Structure
+## 📂File Structure
 
 - `Strings/` - String Concepts
 - `Stringbuilder/` - StringBuilder Concepts
