@@ -3,7 +3,7 @@
 
 Efficiently manage and manipulate strings with this string data structure! Ideal for handling common string operations like concatenation, searching, pattern matching, and more.
 
-## 📑 Table of Contents 
+## 📑Table of Contents 
 
 - [Features](#features)
 - [File Structure](#file-structure)
